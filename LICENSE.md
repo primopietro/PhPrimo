@@ -1,1 +1,2 @@
-Not intended for distribution in current state
+New version :
+https://github.com/primopietro/baseModel
